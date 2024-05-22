@@ -1,6 +1,9 @@
 # markdown-preview
  My last FCC project
 
+I used the default víte get started (js-react) template
+ 
+
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 ## License
